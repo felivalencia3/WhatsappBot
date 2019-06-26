@@ -30,10 +30,11 @@ def reply():
     body = request.form['Body']
     resp = str(body)[::-1]
     message = client.messages.create(
-        from_=origin,
+        from_=to,
         body=resp,
-        to=to
+        to=origin
     )
+    return str(message.error_message or 200)
 
 
 if __name__ == "__main__":
