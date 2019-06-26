@@ -1,0 +1,1 @@
+web: FLASK_APP=src/app/app.py;FLASK_ENV=development;FLASK_DEBUG=0;python -m flask run
