@@ -10,7 +10,7 @@ client = Client(SID, KEY)
 
 
 @app.route('/send', methods=['POST'])
-def incoming():
+def send_msg():
     to = request.form['To']
     origin = request.form['From']
     response = requests.get('https://quota.glitch.me/random')
@@ -21,6 +21,19 @@ def incoming():
         to=to
     )
     return str(message.error_message or 200)
+
+
+@app.route('/reply', methods=['POST'])
+def reply():
+    to = request.form['To']
+    origin = request.form['From']
+    body = request.form['Body']
+    resp = str(body)[::1]
+    message = client.messages.create(
+        from_=origin,
+        body=resp,
+        to=to
+    )
 
 
 if __name__ == "__main__":

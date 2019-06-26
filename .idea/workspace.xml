@@ -27,6 +27,9 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="WhatsappBot" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
@@ -45,7 +48,7 @@
         <entry file="file://$PROJECT_DIR$/Procfile">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="18" selection-start-column="18" selection-end-column="18" />
+              <caret column="21" lean-forward="true" selection-start-column="21" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -219,12 +222,12 @@
       <workItem from="1560470450994" duration="2365000" />
       <workItem from="1561072603473" duration="20000" />
       <workItem from="1561074384132" duration="1948000" />
-      <workItem from="1561566855632" duration="6286000" />
+      <workItem from="1561566855632" duration="6466000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10619000" />
+    <option name="totallyTimeSpent" value="10799000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -244,7 +247,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32913166" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32913166" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32913166" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="R Graphics" />
       <window_info anchor="right" id="R Packages" />
@@ -344,7 +347,7 @@
     <entry file="file://$PROJECT_DIR$/Procfile">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="18" selection-start-column="18" selection-end-column="18" />
+          <caret column="21" lean-forward="true" selection-start-column="21" selection-end-column="21" />
         </state>
       </provider>
     </entry>
