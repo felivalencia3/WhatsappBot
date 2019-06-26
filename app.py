@@ -28,7 +28,7 @@ def reply():
     to = request.form['To']
     origin = request.form['From']
     body = request.form['Body']
-    resp = str(body)[::1]
+    resp = str(body)[::-1]
     message = client.messages.create(
         from_=origin,
         body=resp,
