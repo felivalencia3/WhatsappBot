@@ -49,8 +49,7 @@ def reply():
         translation = language_translator.translate(
             text=text,
             model_id=model[1:-1]).get_result()
-        resp = str(translation)
-
+        resp = translation["translations"][0]["translation"]
     else:
         resp = str(body)[::-1]
     """
