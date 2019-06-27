@@ -52,14 +52,12 @@ def reply():
         resp = translation["translations"][0]["translation"]
     else:
         resp = str(body)[::-1]
-    """
     message = client.messages.create(
         from_=to,
         body=resp,
         to=origin
     )
-    """
-    return resp
+    return message.error_message or 200
 
 
 if __name__ == "__main__":
