@@ -7,3 +7,5 @@ src/bin/
 src/include/
 src/lib
 .idea
+venv/
+env/
