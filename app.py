@@ -1,13 +1,14 @@
-import requests
-import re
-import os
-from twilio.rest import Client
-from twilio.twiml.messaging_response import Message, MessagingResponse
 import itertools
+import os
+import re
+
+import redis
+import requests
 from flask import Flask, request
 from ibm_cloud_sdk_core.api_exception import ApiException
 from ibm_watson import LanguageTranslatorV3
-import redis
+from twilio.rest import Client
+from twilio.twiml.messaging_response import MessagingResponse
 
 account_sid = 'AC303b7c28a90cf7c6f1ca8790153172ba'
 auth_token = '6addf5d752a9b2049988dc3260045da2'
@@ -116,12 +117,15 @@ def reply():
             resp = "Please set mode again."
     response = MessagingResponse()
     response.message(resp)
+    return response
+    """
     message = client.messages.create(
         from_=to,
-        body=response,
+        body=resp,
         to=origin
     )
     return message.error_message or resp
+    """
 
 
 @app.errorhandler(400)
