@@ -33,10 +33,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="778">
-              <caret line="119" column="44" selection-start-line="119" selection-start-column="44" selection-end-line="119" selection-end-column="44" />
+            <state relative-caret-position="92">
+              <caret line="119" column="38" lean-forward="true" selection-start-line="119" selection-start-column="38" selection-end-line="119" selection-end-column="38" />
               <folding>
-                <element signature="e#0#15#0" expanded="true" />
+                <element signature="e#0#16#0" expanded="true" />
+                <element signature="e#3682#3833#1" />
               </folding>
             </state>
           </provider>
@@ -236,7 +237,7 @@
       <workItem from="1561671397090" duration="406000" />
       <workItem from="1561672062481" duration="1902000" />
       <workItem from="1561732225957" duration="17026000" />
-      <workItem from="1563233410022" duration="4714000" />
+      <workItem from="1563233410022" duration="5426000" />
     </task>
     <task id="LOCAL-00001" summary="Added Watson SDK to requirements">
       <created>1561663022468</created>
@@ -287,21 +288,37 @@
       <option name="project" value="LOCAL" />
       <updated>1563313086753</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Migrated from freeform text to TwiML">
+      <created>1563313441392</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1563313441392</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Set Mimetype">
+      <created>1563313742572</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1563313742572</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46876000" />
+    <option name="totallyTimeSpent" value="47588000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49859944" visible="true" weight="0.27625203" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" sideWeight="0.5014006" side_tool="true" weight="0.2536349" />
+      <window_info anchor="bottom" id="Messages" weight="0.32913166" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32913166" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4983845" weight="0.4397759" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4983845" visible="true" weight="0.4397759" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3977591" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -344,11 +361,12 @@
     <MESSAGE value="Ready to test on Heroku" />
     <MESSAGE value="Quick Debug Change" />
     <MESSAGE value="Migrated from freeform text to TwiML" />
-    <option name="LAST_COMMIT_MESSAGE" value="Migrated from freeform text to TwiML" />
+    <MESSAGE value="Set Mimetype" />
+    <option name="LAST_COMMIT_MESSAGE" value="Set Mimetype" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/WhatsappBot$app.coverage" NAME="app Coverage Results" MODIFIED="1561568493721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/app" />
-    <SUITE FILE_PATH="coverage/WhatsappBot$Flask__app_py_.coverage" NAME="Flask (app.py) Coverage Results" MODIFIED="1563313262896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/WhatsappBot$Flask__app_py_.coverage" NAME="Flask (app.py) Coverage Results" MODIFIED="1563314500969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/WhatsappBot$Flask__src_app_app_py_.coverage" NAME="Flask (src/app/app.py) Coverage Results" MODIFIED="1561569474589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
   <component name="editorHistoryManager">
@@ -412,10 +430,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="778">
-          <caret line="119" column="44" selection-start-line="119" selection-start-column="44" selection-end-line="119" selection-end-column="44" />
+        <state relative-caret-position="92">
+          <caret line="119" column="38" lean-forward="true" selection-start-line="119" selection-start-column="38" selection-end-line="119" selection-end-column="38" />
           <folding>
-            <element signature="e#0#15#0" expanded="true" />
+            <element signature="e#0#16#0" expanded="true" />
+            <element signature="e#3682#3833#1" />
           </folding>
         </state>
       </provider>

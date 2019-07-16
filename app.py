@@ -16,8 +16,8 @@ client = Client(account_sid, auth_token)
 
 WATSON_KEY = "SWI2s_r2roYSV_1MontL6a7HxG7zDgodwHeZKs0vDTfF"
 WATSON_URL = "https://gateway.watsonplatform.net/language-translator/api"
-db = redis.from_url(os.environ.get("REDIS_URL"))  # Heroku DB
-# db = redis.Redis(password="castro03") Local DB
+#db = redis.from_url(os.environ.get("REDIS_URL"))  # Heroku DB
+db = redis.Redis(password="castro03") #Local DB
 app = Flask(__name__)
 
 language_translator = LanguageTranslatorV3(
@@ -117,7 +117,7 @@ def reply():
             resp = "Please set mode again."
     response = MessagingResponse()
     response.message(resp)
-    return Response(response,mimetype="text/xml")
+    return str(response)
     """
     message = client.messages.create(
         from_=to,
