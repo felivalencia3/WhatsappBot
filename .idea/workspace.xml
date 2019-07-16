@@ -1,14 +1,116 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="40c81c0f-b6db-47f3-bb0c-a1f6e23660cd" name="Default Changelist" comment="">
+    <list default="true" id="40c81c0f-b6db-47f3-bb0c-a1f6e23660cd" name="Default Changelist" comment="Ready to test on Heroku">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/R_User_Library.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/WhatsappBot.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/WhatsappBot.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/static/css/bootstrap-responsive.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/static/css/bootstrap-responsive.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/static/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/static/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/static/img/glyphicons-halflings-white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/static/img/glyphicons-halflings.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/static/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/static/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/templates/_layout.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/templates/about.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/templates/home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/.idea/dataSources.local.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/.idea/dataSources/aa77061b-bce4-417c-adaf-7d4c22c688ed.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/.idea/dataSources/aa77061b-bce4-417c-adaf-7d4c22c688ed/storage_v2/_src_/database/flaskdb.scuT0Q.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/.idea/dataSources/aa77061b-bce4-417c-adaf-7d4c22c688ed/storage_v2/_src_/database/flaskdb.scuT0Q/schema/flask_boilerplate.DZzckQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/.idea/dataSources/aa77061b-bce4-417c-adaf-7d4c22c688ed/storage_v2/_src_/database/flaskdb.scuT0Q/schema/public.abK9xQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/.idea/flask-boilerplate.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/.idea/libraries/R_User_Library.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/Procfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/Procfile.dev" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/auth.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/config.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/error.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/fabfile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/forms.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/routes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/screenshots/forms.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/screenshots/pages.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/static/css/bootstrap-3.1.1.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/static/css/bootstrap-theme-3.1.1.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/static/css/bootstrap-theme-3.1.1.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/static/css/bootstrap-theme.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/static/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/static/css/font-awesome-4.1.0.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/static/css/layout.forms.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/static/css/layout.main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/static/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/static/css/main.quickfix.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/static/css/main.responsive.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/static/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/static/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/static/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/static/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/static/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/static/ico/apple-touch-icon-114-precomposed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/static/ico/apple-touch-icon-144-precomposed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/static/ico/apple-touch-icon-57-precomposed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/static/ico/apple-touch-icon-72-precomposed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/static/ico/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/static/img/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/static/js/libs/bootstrap-3.1.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/static/js/libs/jquery-1.11.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/static/js/libs/jquery-1.11.1.min.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/static/js/libs/modernizr-2.8.2.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/static/js/libs/respond-1.4.2.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/static/js/plugins.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/static/js/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/templates/errors/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/templates/errors/500.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/templates/forms/forgot.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/templates/forms/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/templates/forms/register.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/templates/layouts/form.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/templates/layouts/main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/templates/pages/placeholder.about.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/templates/pages/placeholder.home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/templates/pages/profile.html" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FavoritesManager">
     <favorites_list name="WhatsappBot" />
@@ -18,8 +120,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="127">
-              <caret line="51" column="58" selection-start-line="51" selection-start-column="58" selection-end-line="51" selection-end-column="58" />
+            <state relative-caret-position="139">
+              <caret line="110" column="35" selection-start-line="110" selection-start-column="35" selection-end-line="110" selection-end-column="35" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -28,6 +130,18 @@
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>set</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -41,6 +155,10 @@
         <option value="$PROJECT_DIR$/requirements.txt" />
         <option value="$PROJECT_DIR$/Procfile" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/app/gunicorn_server.sh" />
+        <option value="$PROJECT_DIR$/gunicorn_server.sh" />
+        <option value="$PROJECT_DIR$/scripts.py" />
+        <option value="$PROJECT_DIR$/db.py" />
         <option value="$PROJECT_DIR$/app.py" />
       </list>
     </option>
@@ -51,7 +169,7 @@
     </layout>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1280" />
+    <option name="width" value="634" />
     <option name="height" value="800" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -79,15 +197,19 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last.edited.regexp" value="[2]" />
+    <property name="last.edited.regexp" value="mode S&#10;" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs.jest.jest_package" value="" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/app" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -103,6 +225,17 @@
     </option>
   </component>
   <component name="RunManager" selected="Flask server.Flask (app.py)">
+    <configuration name="start server" type="BashConfigurationType" factoryName="Bash">
+      <module name="WhatsappBot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="INTERPRETER_PATH" value="$PROJECT_DIR$/gunicorn_server.sh" />
+      <option name="PROJECT_INTERPRETER" value="false" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="gunicorn_server" />
+      <option name="PARAMETERS" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="WhatsappBot" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -160,6 +293,7 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Bash.start server" />
       <item itemvalue="Flask server.Flask (app.py)" />
       <item itemvalue="Python.app" />
     </list>
@@ -184,7 +318,12 @@
       <workItem from="1561074384132" duration="1948000" />
       <workItem from="1561566855632" duration="6865000" />
       <workItem from="1561648552003" duration="6366000" />
-      <workItem from="1561662227664" duration="1855000" />
+      <workItem from="1561662227664" duration="3133000" />
+      <workItem from="1561668958530" duration="2131000" />
+      <workItem from="1561671397090" duration="406000" />
+      <workItem from="1561672062481" duration="1902000" />
+      <workItem from="1561732225957" duration="17026000" />
+      <workItem from="1563233410022" duration="3754000" />
     </task>
     <task id="LOCAL-00001" summary="Added Watson SDK to requirements">
       <created>1561663022468</created>
@@ -207,87 +346,82 @@
       <option name="project" value="LOCAL" />
       <updated>1561664131403</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Ready to test on Whatsapp">
+      <created>1561664320508</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1561664320509</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19419000" />
+    <option name="totallyTimeSpent" value="45916000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49859944" visible="true" weight="0.25686592" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49859944" visible="true" weight="0.27625203" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" sideWeight="0.5014006" side_tool="true" weight="0.2536349" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.37955183" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39914772" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32913166" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4983845" weight="0.4397759" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3977591" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32913166" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50080776" side_tool="true" weight="0.640056" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49919224" weight="0.640056" />
-      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="10" sideWeight="0.5016155" side_tool="true" visible="true" weight="0.24089636" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49919224" weight="0.47058824" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32913166" />
+      <window_info anchor="bottom" id="Pylint" order="13" weight="0.32913166" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="SciView" order="3" />
-      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32956383" />
       <window_info anchor="right" id="R Graphics" order="5" />
       <window_info anchor="right" id="R Packages" order="6" />
+      <window_info anchor="right" id="Coverage" order="7" side_tool="true" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="Added Watson SDK to requirements" />
     <MESSAGE value="Formatted Message" />
-    <option name="LAST_COMMIT_MESSAGE" value="Formatted Message" />
+    <MESSAGE value="Ready to test on Whatsapp" />
+    <MESSAGE value="Ready to test on Heroku" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ready to test on Heroku" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/WhatsappBot$app.coverage" NAME="app Coverage Results" MODIFIED="1561568493721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/app" />
-    <SUITE FILE_PATH="coverage/WhatsappBot$Flask__app_py_.coverage" NAME="Flask (app.py) Coverage Results" MODIFIED="1561664185877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/WhatsappBot$Flask__app_py_.coverage" NAME="Flask (app.py) Coverage Results" MODIFIED="1563311202776" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/WhatsappBot$Flask__src_app_app_py_.coverage" NAME="Flask (src/app/app.py) Coverage Results" MODIFIED="1561569474589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/runtime.txt" />
-    <entry file="file://$PROJECT_DIR$/env/bin/pip3.5">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/env/bin/pip3">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-          <folding>
-            <element signature="e#203#212#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/env/bin/pip">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="e#202#211#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/env/pyvenv.cfg">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/env/bin/pip3.5" />
+    <entry file="file://$PROJECT_DIR$/env/bin/pip3" />
+    <entry file="file://$PROJECT_DIR$/env/bin/pip" />
+    <entry file="file://$PROJECT_DIR$/env/pyvenv.cfg" />
     <entry file="file://$PROJECT_DIR$/Pipfile" />
     <entry file="file://$PROJECT_DIR$/Procfile" />
     <entry file="file://$PROJECT_DIR$/templates/about.html">
@@ -317,10 +451,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/gunicorn_server.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="9" lean-forward="true" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts.py" />
+    <entry file="file://$PROJECT_DIR$/db.py" />
+    <entry file="file:///usr/local/Cellar/python/3.7.1/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/redis/connection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="641" selection-start-line="641" selection-end-line="641" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/Cellar/python/3.7.1/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/ibm_cloud_sdk_core/api_exception.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="127">
-          <caret line="51" column="58" selection-start-line="51" selection-start-column="58" selection-end-line="51" selection-end-column="58" />
+        <state relative-caret-position="139">
+          <caret line="110" column="35" selection-start-line="110" selection-start-column="35" selection-end-line="110" selection-end-column="35" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
