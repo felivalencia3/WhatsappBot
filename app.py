@@ -2,6 +2,7 @@ import requests
 import re
 import os
 from twilio.rest import Client
+from twilio.twiml.messaging_response import Message, MessagingResponse
 import itertools
 from flask import Flask, request
 from ibm_cloud_sdk_core.api_exception import ApiException
@@ -113,9 +114,11 @@ def reply():
             resp = chat()
         else:
             resp = "Please set mode again."
+    response = MessagingResponse()
+    response.message(resp)
     message = client.messages.create(
         from_=to,
-        body=resp,
+        body=response,
         to=origin
     )
     return message.error_message or resp
