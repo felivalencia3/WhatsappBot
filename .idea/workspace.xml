@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="40c81c0f-b6db-47f3-bb0c-a1f6e23660cd" name="Default Changelist" comment="Ready to test on Heroku">
+    <list default="true" id="40c81c0f-b6db-47f3-bb0c-a1f6e23660cd" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/libraries/R_User_Library.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/WhatsappBot.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/WhatsappBot.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/app.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/static/css/bootstrap-responsive.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/static/css/bootstrap-responsive.min.css" beforeDir="false" />
@@ -21,76 +20,6 @@
       <change beforePath="$PROJECT_DIR$/src/app/templates/_layout.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/templates/about.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/templates/home.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/bootstrap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/.idea/dataSources.local.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/.idea/dataSources.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/.idea/dataSources/aa77061b-bce4-417c-adaf-7d4c22c688ed.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/.idea/dataSources/aa77061b-bce4-417c-adaf-7d4c22c688ed/storage_v2/_src_/database/flaskdb.scuT0Q.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/.idea/dataSources/aa77061b-bce4-417c-adaf-7d4c22c688ed/storage_v2/_src_/database/flaskdb.scuT0Q/schema/flask_boilerplate.DZzckQ.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/.idea/dataSources/aa77061b-bce4-417c-adaf-7d4c22c688ed/storage_v2/_src_/database/flaskdb.scuT0Q/schema/public.abK9xQ.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/.idea/flask-boilerplate.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/.idea/libraries/R_User_Library.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/Procfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/Procfile.dev" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/app.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/auth.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/config.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/error.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/fabfile.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/forms.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/requirements.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/routes.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/screenshots/forms.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/screenshots/pages.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/static/css/bootstrap-3.1.1.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/static/css/bootstrap-theme-3.1.1.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/static/css/bootstrap-theme-3.1.1.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/static/css/bootstrap-theme.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/static/css/bootstrap.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/static/css/font-awesome-4.1.0.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/static/css/layout.forms.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/static/css/layout.main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/static/css/main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/static/css/main.quickfix.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/static/css/main.responsive.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/static/fonts/FontAwesome.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/static/fonts/fontawesome-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/static/fonts/fontawesome-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/static/fonts/fontawesome-webfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/static/fonts/fontawesome-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/static/ico/apple-touch-icon-114-precomposed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/static/ico/apple-touch-icon-144-precomposed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/static/ico/apple-touch-icon-57-precomposed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/static/ico/apple-touch-icon-72-precomposed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/static/ico/favicon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/static/img/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/static/js/libs/bootstrap-3.1.1.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/static/js/libs/jquery-1.11.1.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/static/js/libs/jquery-1.11.1.min.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/static/js/libs/modernizr-2.8.2.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/static/js/libs/respond-1.4.2.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/static/js/plugins.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/static/js/script.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/templates/errors/404.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/templates/errors/500.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/templates/forms/forgot.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/templates/forms/login.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/templates/forms/register.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/templates/layouts/form.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/templates/layouts/main.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/templates/pages/placeholder.about.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/templates/pages/placeholder.home.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../flask-boilerplate/templates/pages/profile.html" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -120,8 +49,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="139">
-              <caret line="110" column="35" selection-start-line="110" selection-start-column="35" selection-end-line="110" selection-end-column="35" />
+            <state relative-caret-position="356">
+              <caret line="119" column="56" lean-forward="true" selection-start-line="119" selection-start-column="56" selection-end-line="119" selection-end-column="56" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -323,7 +252,7 @@
       <workItem from="1561671397090" duration="406000" />
       <workItem from="1561672062481" duration="1902000" />
       <workItem from="1561732225957" duration="17026000" />
-      <workItem from="1563233410022" duration="3754000" />
+      <workItem from="1563233410022" duration="4151000" />
     </task>
     <task id="LOCAL-00001" summary="Added Watson SDK to requirements">
       <created>1561663022468</created>
@@ -353,11 +282,18 @@
       <option name="project" value="LOCAL" />
       <updated>1561664320509</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Ready to test on Heroku">
+      <created>1563311219763</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1563311219763</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45916000" />
+    <option name="totallyTimeSpent" value="46313000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -376,10 +312,10 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32913166" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="10" sideWeight="0.5016155" side_tool="true" visible="true" weight="0.24089636" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50080776" side_tool="true" weight="0.32913166" />
       <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49919224" weight="0.47058824" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.32913166" />
-      <window_info anchor="bottom" id="Pylint" order="13" weight="0.32913166" />
+      <window_info anchor="bottom" id="Pylint" order="13" sideWeight="0.49919224" weight="0.32913166" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -477,8 +413,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="110" column="35" selection-start-line="110" selection-start-column="35" selection-end-line="110" selection-end-column="35" />
+        <state relative-caret-position="356">
+          <caret line="119" column="56" lean-forward="true" selection-start-line="119" selection-start-column="56" selection-end-line="119" selection-end-column="56" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>

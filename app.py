@@ -14,7 +14,8 @@ client = Client(account_sid, auth_token)
 
 WATSON_KEY = "SWI2s_r2roYSV_1MontL6a7HxG7zDgodwHeZKs0vDTfF"
 WATSON_URL = "https://gateway.watsonplatform.net/language-translator/api"
-db = redis.from_url(os.environ.get("REDIS_URL")) or redis.Redis(password="castro03")
+db = redis.from_url(os.environ.get("REDIS_URL"))  # Heroku DB
+# db = redis.Redis(password="castro03") Local DB
 app = Flask(__name__)
 
 language_translator = LanguageTranslatorV3(
@@ -117,7 +118,7 @@ def reply():
         body=resp,
         to=origin
     )
-    return message.error_message or str(200)
+    return message.error_message or resp
 
 
 @app.errorhandler(400)
