@@ -4,7 +4,7 @@ import re
 
 import redis
 import requests
-from flask import Flask, request
+from flask import Flask, request, Response
 from ibm_cloud_sdk_core.api_exception import ApiException
 from ibm_watson import LanguageTranslatorV3
 from twilio.rest import Client
@@ -117,7 +117,7 @@ def reply():
             resp = "Please set mode again."
     response = MessagingResponse()
     response.message(resp)
-    return response
+    return Response(response,mimetype="text/xml")
     """
     message = client.messages.create(
         from_=to,
