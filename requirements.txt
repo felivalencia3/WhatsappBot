@@ -28,7 +28,7 @@ jsonschema==3.0.1
 MarkupSafe==1.1.1
 mathparse==0.1.2
 murmurhash==1.0.2
-nltk==3.4.3
+nltk==3.4.5
 numpy==1.16.4
 paramiko==2.5.0
 Pint==0.9
