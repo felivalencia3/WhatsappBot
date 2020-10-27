@@ -8,7 +8,7 @@ chardet==3.0.4
 ChatterBot==1.0.5
 Click==7.0
 coverage==4.5.3
-cryptography==2.7
+cryptography==3.2
 cymem==2.0.2
 enum34==1.1.6
 fabric==2.4.0
