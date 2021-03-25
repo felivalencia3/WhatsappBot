@@ -44,7 +44,7 @@ pyrsistent==0.15.2
 PySocks==1.7.0
 python-dateutil==2.7.5
 pytz==2019.1
-PyYAML==5.1.1
+PyYAML==5.4
 redis==3.2.1
 requests==2.22.0
 six==1.12.0
