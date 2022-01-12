@@ -32,7 +32,7 @@ nltk==3.4.3
 numpy==1.16.4
 paramiko==2.5.0
 Pint==0.9
-pipenv==2018.11.26
+pipenv==2022.1.8
 plac==0.9.6
 preshed==2.0.1
 psycopg2-binary==2.8.3
