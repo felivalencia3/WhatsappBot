@@ -30,7 +30,7 @@ mathparse==0.1.2
 murmurhash==1.0.2
 nltk==3.4.3
 numpy==1.16.4
-paramiko==2.5.0
+paramiko==2.10.1
 Pint==0.9
 pipenv==2018.11.26
 plac==0.9.6
